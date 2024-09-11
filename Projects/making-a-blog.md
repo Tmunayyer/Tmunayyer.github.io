@@ -1,7 +1,6 @@
 09/11/2024
 
 The first post in my blog will be how I made this blog.
-
 # Requirements
 I really want to keep things simple to start.
 - should use either markdown or HTML as syntax 
@@ -40,3 +39,8 @@ The guide recommends adding in proxies for *www* as well. Trying to navigate to 
 
 ## Github Pages: First Publish
 I want to get this exact file in its current state onto my website. I think its as easy as committing and pushing the changes. Ill copy this over to the public folder.
+
+
+
+
+
