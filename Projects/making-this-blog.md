@@ -104,6 +104,8 @@ What spurred this particular effort is to get outside my comfort zone and start 
 
 The final step here is to post it to Hackernews. If you read this and thought of starting a blog, hopefully it gives you some good ideas (or bad ones to avoid).
 
+Here is the link to the post: https://news.ycombinator.com/item?id=41514609
+
 Total time to create this was ~120 minutes.
 
 ### Wish List
