@@ -10,6 +10,7 @@ I really want to keep things simple to start.
 	- I would like to write about my recent trip to Sardinia, Corsica, and Paris. The ability to Attach images would be super nice
 - should be low friction to publish
 	- I want to literally click one button and have it be live 5-10 minutes later
+
 # Research
 While I was traveling I was googling around and found some decent notes about starting a blog.
 ## Domains
@@ -98,6 +99,7 @@ In a few months if I am still posting, I will migrate to something either cheape
 While working on this I had to step away. There was some internal error with the images being displayed on Cloudflare's side. After emailing support and a little back and forth it looks like its resolved! Blog platform asset agnosticism (is this a real word) achieved.
 
 This probably ended up taking about 45 minutes if I take out the time I was waiting for support to reply. 
+
 # Following Through
 What spurred this particular effort is to get outside my comfort zone and start putting myself out in the world a bit more. Many of my hobbies and work is quite solitary.
 
