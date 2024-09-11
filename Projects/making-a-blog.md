@@ -40,7 +40,25 @@ The guide recommends adding in proxies for *www* as well. Trying to navigate to 
 ## Github Pages: First Publish
 I want to get this exact file in its current state onto my website. I think its as easy as committing and pushing the changes. Ill copy this over to the public folder.
 
+It looks like I haven't used my personal Github account with SSH keys before and need to [set this up](https://docs.github.com/en/authentication/connecting-to-github-with-ssh/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent#generating-a-new-ssh-key). This took a few minutes since I needed to readjust the remote url so it would stop asking for a username and password, but we finally have a successful push. Just waiting on the Github Pages action now...
 
+This appeared to work, but I don't actually know how to access this new page.
+### Routing
+Routing might be strange and require some domain knowledge. I obviously cant use the Obsidian vault links since that wont work in a browser. This just requires some simple relative file path routing which should be good enough for now.
 
+After pushing up the changes, this post is now out in the world!
 
+*insert screenshot here*
+
+## Better Publishing
+One of the goals of this project was to create a blog that requires a single click to publish. 
+
+At the moment it requires:
+1. copy contents from the Private folder to the Public folder
+2. opening the terminal
+3. adding the changes
+4. committing the changes
+5. pushing to main
+
+I want a single button that says publish that does it all for me. Im not sure I will get a button out of the box, but there seems to be a plugin for Obsidian that can run commands and sync with Github called [Enveloppe](https://enveloppe.github.io/). This one comes with a lot of extra baggage it seems. I think ill try out the pure [Git plugin first](https://github.com/Vinzent03/obsidian-git). It does similar stuff with less tangent features I don't plan on using.
 
