@@ -99,7 +99,6 @@ In a few months if I am still posting, I will migrate to something either cheape
 While working on this I had to step away. There was some internal error with the images being displayed on Cloudflare's side. After emailing support and a little back and forth it looks like its resolved! Blog platform asset agnosticism (is this a real word) achieved.
 
 This probably ended up taking about 45 minutes if I take out the time I was waiting for support to reply. 
-
 # Following Through
 What spurred this particular effort is to get outside my comfort zone and start putting myself out in the world a bit more. Many of my hobbies and work is quite solitary.
 
@@ -110,5 +109,6 @@ Total time to create this was ~120 minutes.
 ### Wish List
 As an aside, here is a wishlist I had while writing this document.
 - free image hosting
+- image sizing - it would be nice to have smaller images next to the text
 - single button publish
 - some writing helping me with wording since I am probably not very good
