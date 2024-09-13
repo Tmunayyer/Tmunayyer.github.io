@@ -14,6 +14,7 @@ A successful MVP looks like:
 - I can see myself on screen
 - I can see the lesson I am working on
 - I can easily go live
+
 # How: Twitch
 Twitch is the obvious choice based on name recognition. I have tried before to get this set up, but per usual I bailed on it. Not this time. As I am writing the article, **the goal before I close my laptop is to go live and do a single lesson.** Ill worry about capacity and volume later.
 
