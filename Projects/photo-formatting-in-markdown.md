@@ -27,6 +27,7 @@
             }
 
             .text-with-photo>figure {
+                width: unset;
                 max-width: 80vw;
                 align-self: center;
             }
