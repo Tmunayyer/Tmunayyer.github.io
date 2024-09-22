@@ -4,6 +4,7 @@
     <style>
         .text-with-photo {
             display: flex;
+            flex-direction: row;
         }
 
         .text-with-photo>p {
@@ -13,8 +14,25 @@
         .text-with-photo>figure {
             width: 35%;
         }
+
+        /* Extra small devices (phones, 600px and down) */
+        @media only screen and (max-width: 600px) {
+            .text-with-photo {
+                display: flex;
+                flex-direction: column;
+            }
+
+            .text-with-photo>p {
+                width: 100%;
+            }
+
+            .text-with-photo>figure {
+                width: 100%;
+            }
+        }
     </style>
 </head>
+
 
 This blog's MVP was to get stuff out into the world. In order to focus on execution and building a process I decided to forego any kind of formatting. Today I want to iterate and make things flow a little bit better. I really want to have photos and text side by side and/or the ability to add photo carousels.
 ## Why
@@ -91,24 +109,6 @@ And here is an example of just width set.
     </p>
     <figure>
         <img alt="A picture of a cat."
-            src="https://imagedelivery.net/XM0rX8WdEGAqoK0m1yhClg/972c77fc-2365-42a5-1786-b12c3c6cc100/public" />
-        <figcaption>A picture of a cat.</figcaption>
-    </figure>
-</div>
-
-
-
-<div style="display:flex;">
-    <p style="width: 65%;">
-        testing 123here is some text and some even more text here is some text and some even more text here is some text
-        and some even more text here is some text and some even more text here is some text and some even more text here
-        is some text and some even more text here is some text and some even more text here is some text and some even
-        more text here is som
-    </p>
-    <figure style="width: 35%;">
-        <img 
-	        style="width: 100%;"
-	        alt="A picture of a cat."
             src="https://imagedelivery.net/XM0rX8WdEGAqoK0m1yhClg/972c77fc-2365-42a5-1786-b12c3c6cc100/public" />
         <figcaption>A picture of a cat.</figcaption>
     </figure>
