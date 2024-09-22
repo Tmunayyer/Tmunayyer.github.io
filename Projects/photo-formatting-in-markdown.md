@@ -27,7 +27,8 @@
             }
 
             .text-with-photo>figure {
-                width: 100%;
+                max-width: 80vw;
+                align-self: center;
             }
         }
     </style>
