@@ -176,4 +176,4 @@ After some searching, It looks like any Obsidian solution too might just be a ha
 
 Today I will say, this is done. I set out to figure out how to do text next to images in Markdown and it turns out you just use HTML. Kind of a failure on my part but at least I know what I will work on next.
 
-*I set out with the goal of doing things more in public. I am going to post this to hackernews.com. Here is the post: https://tmunayyer.com/Projects/photo-formatting-in-markdown.html*
+*I set out with the goal of doing things more in public. I am going to post this to hackernews.com. Here is the post: https://news.ycombinator.com/item?id=41620913*
