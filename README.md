@@ -8,4 +8,5 @@ Fitness Stuff
 - 09/14/2024 [HWPO Review](/Fitness/HWPO-review.html)
 
 **devJournal**
+- [09/30/2024](/devJournal/9-30-2024.html)
 - [09/12/2024](/devJournal/9-12-2024.html) 
