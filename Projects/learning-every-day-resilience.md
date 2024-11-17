@@ -1,7 +1,8 @@
+# "Training Volume" and Building Academic Resilience
 I recently [wrote about how frustrated I get when studying or learning](../Projects/learning-every_day-frustrations.html) something new. It is an emotional response that is a bit embarrassing at this stage of life. It has affected me since grade school and has caused me to "check out" in many scenarios during my academic career. Luckily, my day to day life no longer is riding on academics, but I believe in the long term, if I ever want to even  even close to doing great work, I still have a lot to learn.
-# Is Resilience Trainable
+## Is Resilience Trainable
 When I initially wrote about getting frustrated I was surprised to find other people asking the exact same question as me, and the general response online being to basically white knuckle it, take a break, or learn some *breathing exercises*. I was really disappointed to not find something more substantial.
-## Sika Strength
+### Sika Strength
 Coincidentally, a strength and condition Q&A video by Sika Strength ([link to question and answer](https://www.youtube.com/watch?v=WtDIUCKEIBA&t=2340s)) discussed resilience and wether or not its trainable. The answer given was interesting and makes me think there is room to run here (no pun intended).
 
 If you don't care to watch the video I think the key pieces are:
@@ -19,7 +20,7 @@ This is particularly interesting. I couldn't ever wrap my head around why I am a
 > Doing difficult things repeatedly will give you better resilience.
 
 Just off the bat, it sounds like I am already on the right track. I am doing the exact thing every day that I have poor resilience in. The interesting part is I have something else to look into. Is there an academic resilience training methodology?
-## Resilience Training
+### Resilience Training
 Unfortunately googling resilience training results in a lot of general advice like have low stress and build a support network. Its a lot of what I found before about being kind to yourself and journaling.
 
 I don't want ways to cope with adversity I want to build a tolerance to it. Marathon runners don't run marathons by journaling, they create a stimulus and adapt to it. The peripherals might help in some way but they aren't the key.
@@ -28,15 +29,15 @@ It doesn't seem like I am going to find what I am looking for on this subject ve
 
 I think there are two factors at play here: Pure exposure and overreaching.
 
-### Pure Exposure
+#### Pure Exposure
 The idea here is how much time I spend doing the thing that frustrated me. How often am I putting myself in a state of discomfort so that I can get used to it. The way to increase this is simple, just do more. The key here will be to not do too much too soon but gradually upping the exposure.
 
-### Overreaching
+#### Overreaching
 Overreaching is the necessity to continue to go just beyond your abilities so that you continually make progress. At the moment I am learning Kotlin. This means that literally just expressing my thoughts in Kotlin's syntax is a bit challenging even if the problems I am working on are conceptually easy. One day this wont be true. I will need to find another subject that challenges me so I don't stagnate. This is much harder to do well unless the path is already predefined. I’ll have to dedicate time to finding this solution and I’ll do that another time. 
 
-## Forging A Path
+### Forging A Path
 Its about to be the holidays and I'll be visiting home. I think sticking with what I am doing now makes sense. Its a habit, and persisting through the change of environment and routine will be an accomplishment by itself. What comes next though?
-### Theorizing
+#### Theorizing
 Right now, I have 45 minutes of dedicated time to learning. To keep things simple to start, I am going to use a single lever, time domain, to increase my exposure. I know right now 45 minutes is not a big deal. Im not dreading it and even if I am late and I'm tired, I can get it in. How would I up the volume over time then?
 
 Here is a weekly breakdown by day of time spent:
